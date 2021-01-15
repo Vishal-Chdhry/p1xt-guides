@@ -86,28 +86,31 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
+### Tier 0 - Web Development - Fullstack Bootcamp - ~~App Academy Open~~ Full Stack Open - University of Helsinki
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+I chose to do Full Stack Open Course from alternatives provided in [FAQ](./faq.md) because it better suited my needs.
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+~~Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.~~ See [FAQ](./faq.md) for alternatives.
+
+Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](https://fullstackopen.com/en) free online Fullstack course. You may elect to complete this specialization only once.
+
+| Courses                                                                                                                                                                         |   Status   |   Evidence   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| Fundamentals of Web apps                                                                                                                                                        |            |              |
+| Introduction to React                                                                                                                                                           |            |              |
+| Communicating with server                                                                                                                                                       |            |              |
+| Programming a server with NodeJS and Express                                                                                                                                    |            |              |
+| Testing Express servers, user administration                                                                                                                                    |            |              |
+| Testing React apps                                                                                                                                                              |            |              |
+| State management with Redux                                                                                                                                                     |            |              |
+| React router, custom hooks, styling app with CSS and webpack                                                                                                                    |            |              |
+| GraphQL                                                                                                                                                                         |            |              |
+| Typescript                                                                                                                                                                      |            |              |
+| **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
+| [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
+| [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
+| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
 ### Tier 1 - Getting Started
 
