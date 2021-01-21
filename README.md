@@ -90,7 +90,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 I chose to do Full Stack Open Course from alternatives provided in [FAQ](./faq.md) because it better suited my needs.
 
-~~Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.~~ See [FAQ](./faq.md) for alternatives.
+~~Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.~~
 
 Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](https://fullstackopen.com/en) free online Fullstack course. You may elect to complete this specialization only once.
 
